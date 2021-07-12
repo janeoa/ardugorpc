@@ -1,1 +1,1 @@
-package arduinosimplerpcgo_test
+package ardugorpc
